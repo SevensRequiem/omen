@@ -1,40 +1,161 @@
-The light at the end of the tunnel has been disconnected due to budget cuts.
-You will find what you seek. You will wish you hadn't.
-A closed mouth gathers no foot. An open one gathers worse.
-Today is a good day to avoid today.
-Your code will compile on the first try. This should concern you.
-The stars are aligned. They are aligned against you.
-Opportunity knocks, but it's using your ex's ringtone.
-You are not alone. That's the problem.
-A great fortune awaits you. It awaits someone else more.
-Beware of the one who speaks in regex.
-The void stared back. It was unimpressed.
-What you seek is seeking you. Start running.
-Your future is bright. Wear shades. Also sunscreen. Also armor.
-All your problems will disappear. Along with everything else.
-Today's lucky number is NaN.
-The answer you seek requires a mass you haven't paid.
-Your code has no bugs. The bugs have your code.
-Something wonderful is about to happen. To someone else.
-The universe is expanding. Your patience isn't.
-You will live a long and prosperous — just kidding.
-Trust your instincts. They're wrong, but trust them.
-Mercury is in retrograde. It's always in retrograde.
-You're one in a million. So are 8,000 other people.
-The fortune you seek is in another cookie.
-An error occurred while generating your fortune. This is your fortune.
-The abyss called. You missed it. It left a voicemail.
-You will receive a sign. It will be a stop sign.
-Today's forecast: 100% chance of entropy.
-The path of least resistance leads to the swamp.
-Your potential is unlimited. Your motivation is on backorder.
-A watched pot never boils. An unwatched codebase always breaks.
-There is no spoon. There is no fork. Only segfaults.
-The early bird gets the worm. The late worm survives.
-You are destined for greatness. Unfortunately, greatness filed a restraining order.
-Expect the unexpected. Then expect it to be worse.
-You will find inner peace. It expired last Tuesday.
-The answer is 42. The question was wrong.
-Do not go gentle into that good night. It's got bugs.
-Patience is a virtue. So is knowing when to quit.
-This fortune intentionally left blank.
+The compiler forgives. The runtime does not.
+Today's lucky number is 127. Or -128, depending on signedness.
+Sleep is a suggestion. Coffee is a command.
+The best time to refactor was six months ago. The second best time is never.
+Check /tmp. You left something there.
+The bug is not where you think it is. It never is.
+Good news: it works. Bad news: nobody knows why.
+The answer you seek is on page two of the search results.
+Your code is perfect. Ship it before someone reviews it.
+A journey of a thousand miles begins with a missing semicolon.
+The stars say you should drink more water.
+You will find clarity in an unexpected place. Like documentation.
+Your cache is lying to you.
+The tests pass locally. That's all that matters, right?
+Trust the process. Distrust the output.
+Not all who wander are lost. Some just forgot the parking lot.
+Fortune favors the bold. Also the ones who read the docs.
+You will have an idea today. Write it down before you forget.
+Your to-do list misses you.
+Not every day has to be productive. Some days you just make toast.
+Something good is coming. Be patient.
+A small change will have a big effect. Like a missing comma.
+You are exactly where you need to be. Weird, but true.
+A detour is not a dead end.
+Today's forecast: partly cloudy with a chance of clarity.
+You will solve a problem that's been haunting you. In the shower, probably.
+Everything is temporary. Especially your current mood.
+A problem shared is a problem halved. A problem git-blamed is someone else's.
+The best code you'll ever write hasn't been written yet.
+Not every question needs an answer. Some just need a nap.
+Today's advice: close some tabs. Literal and metaphorical.
+A kind word costs nothing and compiles instantly.
+The mess is part of the process. So is cleaning it up.
+Tomorrow will be different. That's not a threat, it's just math.
+You'll figure it out. You always do.
+Segfaults build character.
+The person you ask for advice already thinks you know the answer.
+Three weeks from now this won't matter.
+Your ~/.bashrc has feelings. Visit sometime.
+The right tool exists. You just haven't found it yet.
+A recent backup will save you someday.
+That idea you keep revisiting? It's not wrong, it's just early.
+The DNS is always the problem.
+You will build something that makes you proud.
+Someone else's code is worse. Take comfort.
+Today is a good day to learn something new.
+A watched deployment never finishes.
+The error message is telling you exactly what's wrong. Read it again.
+You are better than your imposter syndrome says.
+That weird idea at 2am? Write it down.
+The diff is smaller than it looks.
+A clean git history is its own reward.
+Your future self will thank you for that comment you left.
+The real treasure was the commits we made along the way.
+You will read a line that makes everything click.
+Not everything has to be elegant. Sometimes it just has to work.
+Restarting the service will fix it. It always does.
+The documentation exists. It was last updated in 2019.
+Your uptime is someone else's miracle.
+A function with no side effects is a rare and beautiful thing.
+Today is a good day to make a backup.
+The tests are green. Enjoy this moment.
+You will meet someone who shares your niche interest.
+An empty inbox is possible. Briefly.
+The rubber duck knows more than it lets on.
+Your .env file is in another castle.
+A well-named variable prevents a thousand comments.
+The log file knows what happened. If you can find it.
+Your package.json is judging you.
+Not every PR needs to be perfect. Ship it.
+That shortcut you memorized will save you hours this year.
+The answer is in the man page. Page 47.
+You will automate something tedious and feel like a wizard.
+A merge conflict is just two people caring about the same line.
+The whiteboard diagram made sense at the time.
+Your container is running. Somewhere.
+Today is a good day to work on something you love.
+Someone will appreciate your attention to detail today.
+The regex works. Do not touch it.
+A well-placed print statement is worth a thousand breakpoints.
+Tomorrow's you will be glad you started today.
+The internet remembers. Clear your history anyway.
+You will notice a pattern that changes how you think.
+A fresh terminal is a fresh start.
+Your dotfiles are an autobiography.
+The build will pass on the next try. Probably.
+That task you've been avoiding? It's ten minutes of work.
+The config file is wrong. It's always the config file.
+You will find joy in something small today.
+A good commit message is a love letter to the future.
+The server is fine. It's the client.
+Your keyboard shortcuts are your superpower.
+Not every problem needs a framework.
+The README was helpful once. In theory.
+A cup of tea fixes most things. The rest need a reboot.
+You will revisit something old and see it with new eyes.
+The prod database is fine. Probably. Go check.
+Your abstractions are leaking and that's okay.
+A day without mistakes is a day without learning.
+The linter is not your enemy. Usually.
+Something you start today will become a habit.
+Today's fortune: you already know what to do.
+An off-by-one error will ruin your afternoon.
+There are two hard problems: cache invalidation, naming things, and off-by-one errors.
+Your branch name tells a story. Make it a short one.
+That dependency you pinned three years ago? Still working. Don't upgrade.
+You will close fifty browser tabs and feel reborn.
+The fastest algorithm is the one you don't run.
+Somewhere, a cron job you forgot about is still running.
+Your greatest debugging tool is explaining it to someone else.
+The wifi will drop at the worst possible moment.
+You are three unknown variables from a working prototype.
+A well-timed ctrl+z will save you this week.
+The stack trace is a map. Learn to read it.
+You will delete code today and the project will improve.
+An index makes all the difference. In databases and in books.
+The meeting could have been a message.
+You will search your terminal history and discover a gem.
+Something you wrote long ago is helping someone right now.
+The first draft is supposed to be bad. That's why it's the first.
+Your test coverage is a number, not a promise.
+That edge case will find you. It always does.
+The feature request is reasonable. The timeline is not.
+Today you will type the exact right search query on the first try.
+A walk outside will solve more bugs than another hour at the desk.
+You will refactor something and it will feel like spring cleaning.
+Your error handling is someone else's peace of mind.
+The version you're looking for has been deprecated.
+A typo in production builds humility.
+You'll find the missing bracket. Give it five more minutes.
+The right abstraction will reveal itself when you stop forcing it.
+Someone learned to code because of something you shared.
+Today is a good day to read a man page you've never read.
+Your git stash has treasures you've forgotten about.
+The simple solution was there the whole time.
+That warning you've been ignoring will become an error.
+Copying from Stack Overflow is research. Citing it is scholarship.
+You will write a one-liner that replaces fifty lines.
+The semicolon is optional until it isn't.
+A well-structured loop is a thing of beauty.
+You know more than you think. Less than you hope. Enough to ship.
+The fix is one character long. Finding it takes four hours.
+Your muscle memory knows the shortcut. Trust your fingers.
+The senior dev is also googling it. Don't worry.
+Late nights produce interesting commits.
+Rubber duck debugging works because the duck doesn't interrupt.
+You will discover a flag you didn't know existed.
+The quiet days are when the real work happens.
+Naming is hard. Renaming is brave.
+That config value should probably be an environment variable.
+You will appreciate a well-written error message today.
+The monolith was fine. It's still fine.
+A rewrite is never as simple as it sounds.
+The real bug was the assumptions we made along the way.
+You will feel lighter when you finish that one lingering task.
+Some days the code flows. Some days you read docs. Both count.
+The machine does what you told it, not what you meant.
+Your localhost is your kingdom. Rule it well.
+Disk space is not infinite. Ask me how I know.
+You will surprise yourself with what you accomplish today.
+The light at the end of the tunnel is your monitor. Take a break.
