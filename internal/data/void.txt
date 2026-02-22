@@ -1,0 +1,30 @@
+The signal degrades. Meaning persists.
+You are a guest in a house with no doors.
+The machine dreams of electric nothing.
+Every clock in the building shows a different time. All correct.
+The void doesn't stare back. It lost interest.
+Something moved in your peripheral RAM.
+Your reflection blinked before you did.
+The last line of your code is watching the first.
+A function was called. Nobody wrote it.
+There is a room in your mind you haven't visited. Don't.
+The cursor blinks. It knows something.
+You received a message at 3:33 AM. You were the sender.
+The process exited with code 0. It shouldn't have.
+Something compiled that shouldn't have. Pray.
+The network is quiet. Too quiet.
+A variable changed its own name overnight.
+You are running a program that hasn't been written yet.
+The logs end mid-sentence.
+There's a branch in the repo that no one created.
+Root access was granted to something patient.
+Your terminal is open in another session. You have no other sessions.
+The ping came from inside the subnet.
+Something in /dev/null is reading your writes.
+An unnamed process consumed all available memory. It's thinking.
+The backup completed successfully. The original is gone.
+The daemon started itself.
+Localhost is listening. You didn't start a server.
+A socket opened to an address that doesn't exist. Something answered.
+The man page for this command hasn't been written. It has a changelog.
+The entropy pool is full. It shouldn't be.
